@@ -31,7 +31,7 @@
         position:relative;
         text-align: center;
         font-family: 'Acme', sans-serif;
-        font-size: 20px;
+        font-size: 40px;
         color: blue;
 }
  .span1 {
@@ -110,7 +110,7 @@
 .img1 {
          position: relative;
          top:1%;
-         width: 25%;
+         width: 30%;
          height: auto;
          left:1%;
 
@@ -119,7 +119,7 @@
 .img2 {
          position: relative;
          top:1%;
-         width: 25%;
+         width: 30%;
          height: auto;
          left:5%;
 }
@@ -130,7 +130,7 @@
 
 .seafd {
          font-family: 'Fascinate Inline', cursive;
-         font-size: 10px;
+         font-size: 40px;
 
 }
 
