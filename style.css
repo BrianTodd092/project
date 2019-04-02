@@ -31,7 +31,7 @@
         position:relative;
         text-align: center;
         font-family: 'Acme', sans-serif;
-        font-size: 40px;
+        font-size: 20px;
         color: blue;
 }
  .span1 {
@@ -46,8 +46,8 @@
 
  .ctbut {
          position: relative;
-         height: 45px;
-         width: 100px;
+         height: 35px;
+         width: 80px;
          left: 5%;
          font-size: 18px;
          background-color: white;
@@ -58,8 +58,8 @@
 
 .wxbut   {
            position: relative;
-           height: 45px;
-           width: 100px;
+           height: 35px;
+           width: 80px;
            left: 5%;
            background-color: white;
            border: 2px solid green;
@@ -69,8 +69,8 @@
 
 .ytbut   {
            position: relative;
-           height: 45px;
-           width: 100px;
+           height: 35px;
+           width: 80px;
            left: 5%;
            background-color: white;
            border: 2px solid red;
@@ -110,7 +110,7 @@
 .img1 {
          position: relative;
          top:1%;
-         width: 30%;
+         width: 25%;
          height: auto;
          left:1%;
 
@@ -119,7 +119,7 @@
 .img2 {
          position: relative;
          top:1%;
-         width: 30%;
+         width: 25%;
          height: auto;
          left:5%;
 }
