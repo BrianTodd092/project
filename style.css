@@ -46,7 +46,7 @@
 
  .ctbut {
          position: relative;
-         height: 35px;
+         height: 45px;
          width: 80px;
          left: 5%;
          font-size: 18px;
@@ -58,7 +58,7 @@
 
 .wxbut   {
            position: relative;
-           height: 35px;
+           height: 45px;
            width: 80px;
            left: 5%;
            background-color: white;
@@ -69,7 +69,7 @@
 
 .ytbut   {
            position: relative;
-           height: 35px;
+           height: 45px;
            width: 80px;
            left: 5%;
            background-color: white;
@@ -130,7 +130,7 @@
 
 .seafd {
          font-family: 'Fascinate Inline', cursive;
-         font-size: 40px;
+         font-size: 20px;
 
 }
 
