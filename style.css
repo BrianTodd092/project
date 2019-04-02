@@ -31,7 +31,7 @@
         position:relative;
         text-align: center;
         font-family: 'Acme', sans-serif;
-        font-size: 22px;
+        font-size: 40px;
         color: blue;
 }
  .span1 {
@@ -111,7 +111,7 @@
 .img1 {
          position: relative;
          top:1%;
-         width: 30%;
+         width: 25%;
          height: auto;
          left:1%;
 
@@ -120,7 +120,7 @@
 .img2 {
          position: relative;
          top:1%;
-         width: 30%;
+         width: 25%;
          height: auto;
          left:5%;
 }
@@ -131,13 +131,13 @@
 
 .seafd {
          font-family: 'Fascinate Inline', cursive;
-         font-size: 24px;
+         font-size: 40px;
 
 }
 
 
 
-@media  screen and (max-width: 600px){
+@media  screen and (max-width: 1000px){
   .main {
           background-color: lightblue;
   }
