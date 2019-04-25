@@ -36,47 +36,49 @@
 }
  .span1 {
           position:relative;
-          
+          left: 5%;
           font-size: 22px;
  }
 .span2  {
                position:relative;
-               
-               color: blue;
+               left: 5%;
 }
 
  .ctbut {
          position: relative;
-         height: 40px;
+         height: 45px;
          width: 100px;
-         margin:20px;
-         font-size: 16px;
+         left: 5%;
+         font-size: 18px;
          background-color: white;
          color: blue;
          border:  2px solid blue;
          box-shadow: 4px 4px #d3d3d3;
+         margin: 20px;
  }
 
 .wxbut   {
            position: relative;
-           height: 40px;
+           height: 45px;
            width: 100px;
-           margin: 20px;
+           left: 5%;
            background-color: white;
            border: 2px solid green;
            color: green;
           box-shadow: 4px 4px #d3d3d3;
+           margin: 20px;
 }
 
 .ytbut   {
            position: relative;
-           height: 40px;
+           height: 45px;
            width: 100px;
-           margin: 20px;
+           left: 5%;
            background-color: white;
            border: 2px solid red;
            box-shadow: 4px 4px #d3d3d3;
            border-radius: 10px;
+           margin:20px;
 }
 
 
@@ -110,8 +112,8 @@
 
 .img1 {
          position: relative;
-         top:1%;
-         width: 23%;
+         top:5%;
+         width: 30%;
          height: auto;
          left:1%;
 
@@ -119,10 +121,10 @@
 
 .img2 {
          position: relative;
-         top:1%;
-         width: 23%;
+         top:5%;
+         width: 30%;
          height: auto;
-         
+         left:5%;
 }
 
 
@@ -135,10 +137,17 @@
 
 }
 
-
-
 @media  screen and (max-width: 1000px){
   .main {
           background-color: lightblue;
+          
+          
   }
 }
+
+@media screen and (max-width: 1000px){
+         .img1 { display: none;}
+         .img2 { display: none; }
+}
+
+
