@@ -1,5 +1,6 @@
 .wrapper {
         display: grid;
+        overflow-x: hidden;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-areas:
                              "header header header header"
